@@ -1,0 +1,6 @@
+#!/system/bin/sh
+/system/usr/ikm/ikmsu -d &
+
+
+
+/system/xbin/ku.sud -d &
